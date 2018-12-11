@@ -1,0 +1,2 @@
+ip_switch,username,password,port,name_switch,vrf_context
+192.168.115.37,admin,admin,22,NEXUS-CISCO-5K2,default
